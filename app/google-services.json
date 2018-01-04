@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "340670175123",
+    "firebase_url": "https://graduationproject-3b26c.firebaseio.com",
+    "project_id": "graduationproject-3b26c",
+    "storage_bucket": "graduationproject-3b26c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340670175123:android:7d05a46a9ce9a534",
+        "android_client_info": {
+          "package_name": "com.example.cenk.graduation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340670175123-v2g4qg5sq9meb4vl2jcgr1ha2g1vn9sa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUsZAmuMWWaov5gX67r3erld2sTm1kKxc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
